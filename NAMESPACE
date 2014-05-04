@@ -1,0 +1,6 @@
+exportClasses(BICseq, Aligned, BICsegment)
+
+exportMethods(getBICseg, show, segAligned, plot, bin, seg, getSummary, ratios)
+#exportMethods(getBICseg, show, segAligned, plot, bin, seg, ratios)
+
+export(BICseq, Aligned)

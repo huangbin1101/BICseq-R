@@ -1,0 +1,11 @@
+Package: BICseq
+Title: NGS reads based segmentation
+Version: 1.2.0
+Author: Ruibin Xi, Lovelace Luquette, Jianhua Zhang
+Description: Finds segments based on NGS reads from a sample and normal pair
+Depends: R (>= 2.11.0), methods, Rsamtools
+Maintainer: Ruibin Xi<ruibinxi@gmail.com>
+License: Artistic-2.0
+LazyLoad: yes
+biocViews: Platform, CopyNumberVariants
+Packaged: 2012-03-21 23:33:21 UTC; jl
